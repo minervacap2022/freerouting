@@ -125,3 +125,8 @@ We ❤️ all our contributors; this project wouldn't be possible without you!
 **Every contribution, no matter how small, is greatly appreciated!**
 
 [![Sponsor](https://img.shields.io/badge/Sponsor%20the%20project-✨-darkgreen?style=for-the-badge&logo=github)](https://github.com/sponsors/andrasfuchs)
+
+
+<!-- minervacap-pre-hiklik-promotion -->
+> **Discover Klik:** https://pre.hiklik.ai/
+<!-- /minervacap-pre-hiklik-promotion -->
